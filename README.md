@@ -2,7 +2,7 @@
 
 **Last updated: June 2026**
 
-**Developed by Williams Gift Kachi — Thundr Technologies, Nigeria**
+**Developed by Williams Gift Kachi - Thundr Technologies, Nigeria**
 
 ---
 
@@ -21,8 +21,8 @@ By using Re:Call, you agree to the practices described in this policy.
 Re:Call is designed with your privacy in mind. We do not collect,
 store or transmit your personal data to any external server.
 
-All data you enter — including phone numbers, messages, reminders
-and scheduled items — is stored **locally on your device only**
+All data you enter, including phone numbers, messages, reminders
+and scheduled items is stored **locally on your device only**
 using Android's Room database. It never leaves your phone.
 
 ### Permissions we request and why:
@@ -35,12 +35,12 @@ messages without your knowledge.
 **READ_CONTACTS**
 Required to let you pick a contact from your phone book when
 scheduling an SMS or call reminder. We do not read, copy or
-store your contacts — we only use the selected contact's
+store your contacts we only use the selected contact's
 phone number for the action you requested.
 
 **CALL_PHONE**
 Required to open the phone dialler when a call reminder fires.
-We never make calls automatically — we show you a reminder and
+We never make calls automatically, we show you a reminder and
 you choose to call.
 
 **POST_NOTIFICATIONS**
@@ -65,8 +65,8 @@ so you can choose which SIM to use for SMS and calls.
 
 ## Data Storage
 
-All your data — scheduled SMS, call reminders, personal reminders,
-history and preferences — is stored locally on your device.
+All your data, scheduled SMS, call reminders, personal reminders,
+history and preferences is stored locally on your device.
 
 We do not operate any servers. We do not collect analytics.
 We do not use any third-party tracking or advertising SDKs.
