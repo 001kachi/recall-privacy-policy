@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Re:Call ("the App") is developed and maintained by Thundr Technologies.
+Re:Call - Offline Scheduler ("the App") is developed and maintained by Thundr Technologies.
 This Privacy Policy explains how we collect, use and protect your
 information when you use Re:Call on your Android device.
 
