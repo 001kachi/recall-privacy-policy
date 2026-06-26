@@ -50,7 +50,8 @@ notifications on your screen and lock screen.
 **RECORD_AUDIO**
 Required only for the optional voice input feature that lets
 you speak your reminder text instead of typing it. We do not
-record, store or transmit any audio.
+record, store or transmit any audio. We do not record or transmit audio unless you actively use the voice input feature.
+No audio is recorded or stored without your explicit action.
 
 **RECEIVE_BOOT_COMPLETED**
 Required to restore your scheduled reminders after your
